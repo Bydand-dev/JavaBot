@@ -8,4 +8,5 @@ VOLUME "/work/logs"
 VOLUME "/work/db"
 VOLUME "/work/purgeArchives"
 USER 1000
+https://join.slack.com/shareDM/zt-2sqnbnhya-GbgA7aZGw2Pq9K5V4bEzhA
 ENTRYPOINT [ "java", "-jar", "bot.jar" ]
