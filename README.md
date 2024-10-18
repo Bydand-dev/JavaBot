@@ -79,3 +79,4 @@ You can try out the API yourself on `api.discordjug.net`!
 Inspiration we took from other communities:
 
 - Our [`/move-conversation`](https://github.com/Java-Discord/JavaBot/blob/main/src/main/java/net/discordjug/javabot/systems/user_commands/MoveConversationCommand.java) command is heavily inspired by the [Rust Programming Language Community Server](https://discord.gg/rust-lang-community)
+
